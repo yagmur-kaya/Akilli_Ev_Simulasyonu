@@ -18,13 +18,24 @@ Bu proje sayesinde:
 - Gerçek dünya senaryolarını kodla modellemeyi öğrendim.
 - GitHub üzerinden projelerimi paylaşma pratiği kazandım.
 #Örnek kullanım 
-firin_=firin()
-firin_.ac()
-firin_.sicaklik_ayarla(180)
-firin_.fanli_()
-print(firin_.pisir(30))
-print(firin_.sicaklik_ayarla(220))
+klima_=klima()
+print(klima_.derece_ayarla(22))
+print(klima_.derece_goster()) 
+
 perde_=perde()
 perde_.yariya_indir()
 perde_.durum_goruntule()
 print(perde_.durum_goruntule())
+
+firin_=firin()
+firin_.ac()
+firin_.sicaklik_ayarla(180)
+firin_.fanli_()
+firin_.sicaklik_goster(25)
+
+
+print(firin_.sicaklik_ayarla(220))
+print(firin_.sicaklik_goster(25))
+print(firin_.grill_())
+print(firin_.buz_cozme())
+print(firin_.pisir(30))
