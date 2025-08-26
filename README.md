@@ -1,4 +1,4 @@
-#Akıllı Ev Simülasyonu 
+# Akıllı Ev Simülasyonu 
 Bu projeyi nesne tabanlı programlama (OOP) öğrenmeye başladığım zaman pratik yapmak amacıyla yazdım. 
 Akıllı ev simülasyonu yaparken perde,klima ve fırını  kontrol etmeyi amaçladım.Tabii ki daha öğrenme aşamasında olduğum için çok fazla özellik ekleyemedim kendimi geliştirdikçe daha fazla parametre ve fonksiyon eklemeyi düşünüyorum
 ## Cihazlar
